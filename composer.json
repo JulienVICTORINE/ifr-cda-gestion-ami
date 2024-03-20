@@ -1,0 +1,16 @@
+{
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "authors": [
+        {
+            "name" : "Emma tony georges",
+            "email": "contact@emmatony.re"
+        }
+    ]
+}
